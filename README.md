@@ -1,8 +1,8 @@
 <img src="https://github.com/egoist/egoist/raw/master/balloon.gif" width="50">
 
-Hi there 👋
+🍻🍻🍻🍻🍻🍻🍻🍻
 
-I'm a web developer based in China.
+<img src="https://user-images.githubusercontent.com/507615/86994913-47366580-c1da-11ea-8c1f-1a9b84ad340f.jpg" width="50">
 
 ---
 
